@@ -1,0 +1,25 @@
+# Fichiers Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual env
+venv/
+.env/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Base de données SQLite
+*.db
+
+# Fichiers Streamlit
+.streamlit/
+
+# Données
+data/
+*.json
+
+# Fichiers temporaires
+*.log
